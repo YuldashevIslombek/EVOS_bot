@@ -14,7 +14,7 @@ def start_buttons(lang):
          KeyboardButton(text=f"{messages[lang]['branches']}")],
         [KeyboardButton(text=f"{messages[lang]['job_positions']}")],
         [KeyboardButton(text=f"{messages[lang]['menu']}",
-                        web_app=WebAppInfo(url="https://github.com/YuldashevIslombek/EVOS_bot.git")),
+                        web_app=WebAppInfo(url="https://yuldashevislombek.github.io/EVOS_bot/")),
          KeyboardButton(text=f"{messages[lang]['news']}")],
         [
             KeyboardButton(text=f"{messages[lang]['contacts']}"),
