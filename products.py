@@ -19,4 +19,16 @@ products = {
         "name": "PIZZA",
         "price": 50000
     }
+    ,
+
+    "ID_5": {
+        "name": "BIG_COMBO",
+        "price": 176000
+    }
+    ,
+
+    "ID_6": {
+        "name": "PIZZA",
+        "price": 15000
+    }
 }
