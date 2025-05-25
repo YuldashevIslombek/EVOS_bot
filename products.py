@@ -28,7 +28,7 @@ products = {
     ,
 
     "ID_6": {
-        "name": "PIZZA",
+        "name": "1,5_PEPSI",
         "price": 15000
     }
 }
