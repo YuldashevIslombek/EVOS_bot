@@ -31,4 +31,38 @@ products = {
         "name": "1,5_PEPSI",
         "price": 15000
     }
+    ,
+
+    "ID_7": {
+        "name": "OSH",
+        "price": 35000
+    }
+    ,
+
+    "ID_8": {
+        "name": "PIZZA_COMBO",
+        "price": 89000
+    }
+    ,
+
+    "ID_9": {
+        "name": "SHASHLIK",
+        "price": 25000
+    }
+    ,
+
+    "ID_10": {
+        "name": "PIZZA_COMBO",
+        "price": 250000
+    }
+    ,
+    "ID_11": {
+        "name": "COFFEE_CAPPUCCION",
+        "price": 15000
+    }
+    ,
+    "ID_12": {
+        "name": "COFFEE_BLACK",
+        "price": 15000
+    }
 }
