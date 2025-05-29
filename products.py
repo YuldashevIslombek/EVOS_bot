@@ -5,64 +5,64 @@ products = {
     },
 
     "ID_2": {
-        "name": "KFC",
-        "price": 120000
+        "name": "Trindvich",
+        "price": 38000
     },
 
     "ID_3": {
-        "name": "LAVASH",
-        "price": 40000
+        "name": "Dabl_Set",
+        "price": 105000
     }
     ,
 
     "ID_4": {
-        "name": "PIZZA",
-        "price": 50000
+        "name": "Dabl_Set2",
+        "price": 95000
     }
     ,
 
     "ID_5": {
-        "name": "BIG_COMBO",
+        "name": "Big_Set",
         "price": 176000
     }
     ,
 
     "ID_6": {
-        "name": "1,5_PEPSI",
-        "price": 15000
+        "name": "Klubnichniy_Moxito",
+        "price": 17000
     }
     ,
 
     "ID_7": {
-        "name": "OSH",
-        "price": 35000
+        "name": "1,5_Pepsi",
+        "price": 22000
     }
     ,
 
     "ID_8": {
-        "name": "PIZZA_COMBO",
-        "price": 89000
+        "name": "0,4_Pepsi",
+        "price": 11000
     }
     ,
 
     "ID_9": {
-        "name": "SHASHLIK",
+        "name": "1,0_Bliss",
         "price": 25000
     }
     ,
 
     "ID_10": {
-        "name": "PIZZA_COMBO",
-        "price": 250000
+        "name": "Cappuccion",
+        "price": 17000
     }
     ,
     "ID_11": {
-        "name": "COFFEE_CAPPUCCION",
-        "price": 15000
+        "name": "Souse",
+        "price": 4000
     }
     ,
     "ID_12": {
-        "name": "COFFEE_BLACK",
-        "price": 15000
+        "name": "Coko",
+        "price": 23000
     }
 }

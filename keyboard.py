@@ -37,3 +37,17 @@ def select_language():
 
     ], resize_keyboard=True)
     return buttons
+
+
+
+def get_regions(lang):
+    buttons = ReplyKeyboardMarkup(keyboard=[
+        [KeyboardButton(text=f"{messages[lang]['Tashkent']}"), KeyboardButton(text=f"{messages[lang]['Andijan']}")],
+        [KeyboardButton(text=f"{messages[lang]['Qarshi']}"), KeyboardButton(text=f"{messages[lang]['Qoqon']}")],
+        [KeyboardButton(text=f"{messages[lang]['Namangan']}"), KeyboardButton(text=f"{messages[lang]['Samarqand']}")],
+        [KeyboardButton(text=f"{messages[lang]['Fargona']}"), KeyboardButton(text=f"{messages[lang]['Shaxrisabz']}")],
+        [KeyboardButton(text=f"{messages[lang]['Xorazim']}"), KeyboardButton(text=f"{messages[lang]['Navoiy']}")],
+        [KeyboardButton(text=f"{messages[lang]['Back🔙']}")]
+
+    ], resize_keyboard=True)
+    return buttons
