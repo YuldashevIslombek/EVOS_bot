@@ -10,17 +10,17 @@ from dotenv import load_dotenv
 from menu import bot_commands
 from products import products
 
-# from aiogram.client.session.aiohttp import AiohttpSession
+from aiogram.client.session.aiohttp import AiohttpSession
 load_dotenv()
-# session = AiohttpSession(proxy="http://proxy.server:3128")
+session = AiohttpSession(proxy="http://proxy.server:3128")
 
 
 
 
 TOKEN = getenv("BOT_TOKEN")
 PROVIDER_TOKEN = getenv("PROVIDER_TOKEN")
-bot = Bot(token=TOKEN)
-# bot = Bot(token=TOKEN, session=session)
+# bot = Bot(token=TOKEN)
+bot = Bot(token=TOKEN, session=session)
 
 
 dp = Dispatcher()
